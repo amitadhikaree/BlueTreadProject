@@ -1,0 +1,21 @@
+﻿@model EncoreTIX.Models.AttractionEvent
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EventDetails</title>
+    <link rel="stylesheet" href="_EventCard.cshtml.css">
+</head>
+<body>
+    <div class="event">
+        <img src="https://s1.ticketm.net/dbimages/22076v.jpg" alt="Event Thumbnail">
+        <div>         
+            <p>@Model?.VenueDate</p>
+            <h3>@Model?.Name</h3>
+            <p>@Model?.Venue</p>
+        </div>
+    </div>
+</body>
+</html>

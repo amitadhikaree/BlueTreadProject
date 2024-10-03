@@ -1,0 +1,58 @@
+﻿@model List<EncoreTIX.Models.Attraction>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <form method="post" asp-action="SearchAttraction">
+        <input type="text" id="textbox" name="searchKeyword" placeholder="Search for Attractions">
+        <button type="submit">Submit</button>
+    </form>
+    @{
+        if (@Model!=null && @Model.Count > 0)
+        {
+            <div class="container mt-4">
+                @foreach (var attraction in Model)
+                {
+                    <div class="attraction-card" data-attraction-id="@attraction.Id">
+                        <partial name="_Card" model="attraction" />
+                    </div>
+                }
+            </div>
+            <form id="attractionForm" method="post" asp-action="SubmitAttraction">
+                <input type="hidden" id="selectedAttractionId" name="selectedAttractionId" value="">
+                <button type="submit" id="select-attraction-btn" disabled>Select Attraction</button>
+            </form>
+        }
+
+        else
+        {
+            <p>No attractionfound for given Keyword</p>
+        }
+    }
+</div>
+
+<script>
+    let selectedAttractionId = null;
+    const attractionCards = document.querySelectorAll('.attraction-card');
+    const selectAttractionBtn = document.getElementById('select-attraction-btn');
+    const selectedAttractionIdInput = document.getElementById('selectedAttractionId');
+
+    attractionCards.forEach(card => {
+        card.addEventListener('click', () => {
+            // Deselect other cards
+            attractionCards.forEach(c => c.classList.remove('selected'));
+            // Select the clicked card
+            card.classList.add('selected');
+            // Get the attraction ID
+            selectedAttractionId = card.getAttribute('data-attraction-id');
+            // Set the hidden field value
+            console.log(selectedAttractionId);
+            selectedAttractionIdInput.value = selectedAttractionId;
+            // Enable the submit button
+            selectAttractionBtn.disabled = false;
+        });
+    });
+</script>
+

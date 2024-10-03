@@ -1,0 +1,4 @@
+﻿.attraction-card.selected {
+    background-color: #d1e7dd; /* Light green background */
+    border-color: #0f5132; /* Darker green border */
+}

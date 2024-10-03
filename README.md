@@ -1,6 +1,7 @@
 # ASP.NET MVC Project
 
 This is an ASP.NET MVC Project built on .NET 8.
+Run the Project from Visual Studio(2022)
 
 ## Project Structure
 

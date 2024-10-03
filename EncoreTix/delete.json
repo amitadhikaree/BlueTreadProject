@@ -1,0 +1,103 @@
+﻿{
+  "_embedded": {
+    "events": [
+      {
+        "name": "San Antonio Spurs vs Phoenix Suns",
+        "type": "event",
+        "id": "G5dIZb8kECzK3",
+        "test": false,
+        "url": "https://www.ticketmaster.com/san-antonio-spurs-vs-phoenix-suns-austin-texas-02-20-2025/event/3A006101A73B84D2",
+        "locale": "en-us",
+        "dates": {
+          "start": {
+            "localDate": "2025-02-20",
+            "localTime": "20:30:00",
+            "dateTime": "2025-02-21T02:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/Chicago",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Moody Center ATX",
+              "type": "venue",
+              "id": "KovZ917ANwG",
+              "test": false,
+              "url": "https://www.ticketmaster.com/moody-center-atx-tickets-austin/venue/476228",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/22076v.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                }
+              ],
+              "postalCode": "78712",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Austin"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "2001 Robert Dedman Drive"
+              },
+              "location": {
+                "longitude": "-97.730837",
+                "latitude": "30.280735"
+              },
+              "markets": [
+                {
+                  "name": "San Antonio and Austin",
+                  "id": "40"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 222
+                },
+                {
+                  "id": 379
+                },
+                {
+                  "id": 380
+                }
+              ],
+              "upcomingEvents": {
+                "archtics": 1,
+                "tmr": 18,
+                "ticketmaster": 44,
+                "_total": 63,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZ917ANwG?locale=en-us"
+                }
+              }
+            }
+          ]
+
+        }
+      }
+    ]
+  }
+  
+}

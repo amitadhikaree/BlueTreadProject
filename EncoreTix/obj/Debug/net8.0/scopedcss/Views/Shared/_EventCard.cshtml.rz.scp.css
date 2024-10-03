@@ -1,0 +1,34 @@
+
+.event[b-vfwljhe21p] {
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fafafa;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+    .event img[b-vfwljhe21p] {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        margin-right: 16px;
+    }
+
+    .event div[b-vfwljhe21p] {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .event h3[b-vfwljhe21p] {
+        margin: 0;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .event p[b-vfwljhe21p] {
+        margin: 0;
+        font-size: 14px;
+        color: #777;
+    }

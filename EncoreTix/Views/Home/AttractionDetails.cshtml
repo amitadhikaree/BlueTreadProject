@@ -1,0 +1,55 @@
+﻿@model EncoreTIX.ViewModels.AttractionDetail
+
+@{
+
+}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Big Eyed Phish</title>
+    <link rel="stylesheet" href="AttractionDetails.cshtml.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        @{
+            if (@Model.Attraction != null)
+            {
+                <div class="header">
+                    <img src=@Model.Attraction.ImageUrl alt="Event Image">
+                </div>
+
+                <div class="icons">
+                    <h1>@Model.Attraction.Name</h1>
+
+                <a href="@Model.Attraction.ExternalLinks?.Twitter?.FirstOrDefault()?.Url" target="_blank">
+                    <i class="fab fa-twitter" style="font-size: 24px;"></i>
+                </a>
+
+                <a href="@Model.Attraction.ExternalLinks?.YouTube?.FirstOrDefault()?.Url" target="_blank">
+                    <i class="fab fa-youtube" style="font-size: 24px;"></i>
+                </a>
+
+                <a href="@Model.Attraction.ExternalLinks?.Homepage?.FirstOrDefault()?.Url" target="_blank">
+                    <i class="fas fa-globe" style="font-size: 24px;"></i>
+                </a>
+                </div>
+            }
+            if (@Model.AttractionEvents != null && @Model.AttractionEvents.Count > 0)
+            {
+                <div class="events">
+                    @foreach (var eventModel in @Model.AttractionEvents)
+                    {
+                        <partial name="_EventCard" model="eventModel" />
+                    }
+                </div>
+            }
+            
+        }
+        
+    </div>
+
+</body>
+</html>

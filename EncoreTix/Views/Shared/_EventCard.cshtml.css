@@ -1,0 +1,34 @@
+﻿
+.event {
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fafafa;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+    .event img {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        margin-right: 16px;
+    }
+
+    .event div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .event h3 {
+        margin: 0;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .event p {
+        margin: 0;
+        font-size: 14px;
+        color: #777;
+    }

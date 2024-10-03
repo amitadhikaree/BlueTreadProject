@@ -1,0 +1,24 @@
+﻿@model EncoreTIX.Models.Attraction
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Card</title>
+    <link rel="stylesheet" href="_Card.cshtml.css">
+</head>
+<body>
+
+    <div class="card custom-card mb-3">
+        <div class="d-flex align-items-center">
+            <img src=@Model?.ImageUrl alt="Event Image" class="img-fluid">
+            <div class="card-body">
+                <h5>@Model?.Name</h5>
+            </div>
+        </div>
+    </div>   
+
+</body>
+</html>

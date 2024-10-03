@@ -1,0 +1,31 @@
+﻿/* styles.css */
+.custom-card {
+    padding: 10px;
+    background-color: #f8f9fa; /* Light background */
+    border-radius: 10px;
+    border: 1px solid #ddd; /* Optional border */
+    width: 50%;
+    margin: 0 auto;
+}
+
+    .custom-card img {
+        width: 100px;
+        height: 56px;
+        object-fit: cover;
+        margin-right: 15px;
+        border-radius: 5px;
+    }
+
+    .custom-card .card-body {
+        flex-grow: 1; /* Ensure text takes the remaining space */
+    }
+
+    .custom-card h5 {
+        margin: 0;
+        font-size: 1.25rem;
+        font-weight: bold;
+    }
+
+body {
+    background-color: #e9f3fb; /* Light blue background */
+}

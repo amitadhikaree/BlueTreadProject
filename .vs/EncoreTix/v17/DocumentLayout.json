@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\services\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\services\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\services\\ticketmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\services\\ticketmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\shared\\_eventcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\shared\\_eventcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\home\\attractiondetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\home\\attractiondetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\models\\externallinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\models\\externallinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\models\\responesedtos\\attractionsapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\models\\responesedtos\\attractionsapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\models\\responesedtos\\eventapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\models\\responesedtos\\eventapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\models\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\models\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\models\\attractionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\models\\attractionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\viewmodels\\attractiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\viewmodels\\attractiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\shared\\_eventcard.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\shared\\_eventcard.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\shared\\_card.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\shared\\_card.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\delete.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\delete.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\services\\iticketmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\services\\iticketmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|c:\\users\\amit\\desktop\\bluetreadproject\\encoretix\\encoretix\\services\\ihttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDC14FC-C9F9-4C2E-B8EA-DA0777D6DF96}|EncoreTix\\EncoreTIX.csproj|solutionrelative:encoretix\\services\\ihttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpService.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Services\\HttpService.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Services\\HttpService.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Services\\HttpService.cs",
+              "RelativeToolTip": "EncoreTix\\Services\\HttpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:44:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Services\\TicketMaster.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Services\\TicketMaster.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Services\\TicketMaster.cs",
+              "RelativeToolTip": "EncoreTix\\Services\\TicketMaster.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:04:17.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attraction.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\Attraction.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Models\\Attraction.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\Attraction.cs",
+              "RelativeToolTip": "EncoreTix\\Models\\Attraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:49:11.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExternalLinks.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\ExternalLinks.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Models\\ExternalLinks.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\ExternalLinks.cs",
+              "RelativeToolTip": "EncoreTix\\Models\\ExternalLinks.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:44:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttractionDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Home\\AttractionDetails.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Home\\AttractionDetails.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Home\\AttractionDetails.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\Home\\AttractionDetails.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwB4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T16:00:29.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T21:48:11.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_EventCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_EventCard.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Shared\\_EventCard.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_EventCard.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\Shared\\_EventCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T15:39:59.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EncoreTix\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAASwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:46:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Card.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_Card.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Shared\\_Card.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_Card.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\Shared\\_Card.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T22:56:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttractionsApiResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\ResponeseDtos\\AttractionsApiResponseDto.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Models\\ResponeseDtos\\AttractionsApiResponseDto.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\ResponeseDtos\\AttractionsApiResponseDto.cs",
+              "RelativeToolTip": "EncoreTix\\Models\\ResponeseDtos\\AttractionsApiResponseDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:45:44.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventApiResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\ResponeseDtos\\EventApiResponseDto.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Models\\ResponeseDtos\\EventApiResponseDto.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\ResponeseDtos\\EventApiResponseDto.cs",
+              "RelativeToolTip": "EncoreTix\\Models\\ResponeseDtos\\EventApiResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:51:30.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttractionEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\AttractionEvent.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Models\\AttractionEvent.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\AttractionEvent.cs",
+              "RelativeToolTip": "EncoreTix\\Models\\AttractionEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:52:14.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EncoreTix\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:57:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Models\\Image.cs",
+              "RelativeToolTip": "EncoreTix\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:29:37.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T19:00:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T23:08:21.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Program.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Program.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Program.cs",
+              "RelativeToolTip": "EncoreTix\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:45:24.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\appsettings.json",
+              "RelativeDocumentMoniker": "EncoreTix\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\appsettings.json",
+              "RelativeToolTip": "EncoreTix\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T20:43:07.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AttractionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\ViewModels\\AttractionDetail.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\ViewModels\\AttractionDetail.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\ViewModels\\AttractionDetail.cs",
+              "RelativeToolTip": "EncoreTix\\ViewModels\\AttractionDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:57:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:58:50.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Card.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_Card.cshtml.css",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Shared\\_Card.cshtml.css",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_Card.cshtml.css",
+              "RelativeToolTip": "EncoreTix\\Views\\Shared\\_Card.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-03T02:23:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T23:22:15.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_EventCard.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_EventCard.cshtml.css",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Shared\\_EventCard.cshtml.css",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_EventCard.cshtml.css",
+              "RelativeToolTip": "EncoreTix\\Views\\Shared\\_EventCard.cshtml.css",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-03T02:25:05.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EncoreTix\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T13:58:51.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "delete.json",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\delete.json",
+              "RelativeDocumentMoniker": "EncoreTix\\delete.json",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\delete.json",
+              "RelativeToolTip": "EncoreTix\\delete.json",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAUwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T19:31:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "EncoreTix\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "EncoreTix\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-01T23:08:33.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITicketMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Services\\ITicketMaster.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Services\\ITicketMaster.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Services\\ITicketMaster.cs",
+              "RelativeToolTip": "EncoreTix\\Services\\ITicketMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:02:06.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Services\\IHttpService.cs",
+              "RelativeDocumentMoniker": "EncoreTix\\Services\\IHttpService.cs",
+              "ToolTip": "C:\\Users\\Amit\\Desktop\\BlueTreadproject\\EncoreTix\\EncoreTix\\Services\\IHttpService.cs",
+              "RelativeToolTip": "EncoreTix\\Services\\IHttpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:49:44.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

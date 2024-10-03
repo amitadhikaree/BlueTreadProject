@@ -1,0 +1,205 @@
+/* _content/EncoreTIX/Views/Home/AttractionDetails.cshtml.rz.scp.css */
+body[b-obv9jtmh3v] {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container[b-obv9jtmh3v] {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header[b-obv9jtmh3v] {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+    .header img[b-obv9jtmh3v] {
+        width: 100%;
+        border-radius: 8px 8px 0 0;
+    }
+
+    .header h1[b-obv9jtmh3v] {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 24px;
+        margin: 0;
+    }
+
+.events[b-obv9jtmh3v] {
+    padding: 16px;
+}
+
+.event[b-obv9jtmh3v] {
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fafafa;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+    .event img[b-obv9jtmh3v] {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        margin-right: 16px;
+    }
+
+    .event div[b-obv9jtmh3v] {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .event h3[b-obv9jtmh3v] {
+        margin: 0;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .event p[b-obv9jtmh3v] {
+        margin: 0;
+        font-size: 14px;
+        color: #777;
+    }
+
+.icons[b-obv9jtmh3v] {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+    .icons img[b-obv9jtmh3v] {
+        width: 24px;
+        margin: 0 10px;
+    }
+/* _content/EncoreTIX/Views/Home/Index.cshtml.rz.scp.css */
+.attraction-card.selected[b-1949f68hjv] {
+    background-color: #d1e7dd; /* Light green background */
+    border-color: #0f5132; /* Darker green border */
+}
+/* _content/EncoreTIX/Views/Shared/_Card.cshtml.rz.scp.css */
+/* styles.css */
+.custom-card[b-velm4pwpuh] {
+    padding: 10px;
+    background-color: #f8f9fa; /* Light background */
+    border-radius: 10px;
+    border: 1px solid #ddd; /* Optional border */
+    width: 50%;
+    margin: 0 auto;
+}
+
+    .custom-card img[b-velm4pwpuh] {
+        width: 100px;
+        height: 56px;
+        object-fit: cover;
+        margin-right: 15px;
+        border-radius: 5px;
+    }
+
+    .custom-card .card-body[b-velm4pwpuh] {
+        flex-grow: 1; /* Ensure text takes the remaining space */
+    }
+
+    .custom-card h5[b-velm4pwpuh] {
+        margin: 0;
+        font-size: 1.25rem;
+        font-weight: bold;
+    }
+
+body[b-velm4pwpuh] {
+    background-color: #e9f3fb; /* Light blue background */
+}
+/* _content/EncoreTIX/Views/Shared/_EventCard.cshtml.rz.scp.css */
+
+.event[b-vfwljhe21p] {
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fafafa;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+    .event img[b-vfwljhe21p] {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        margin-right: 16px;
+    }
+
+    .event div[b-vfwljhe21p] {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .event h3[b-vfwljhe21p] {
+        margin: 0;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .event p[b-vfwljhe21p] {
+        margin: 0;
+        font-size: 14px;
+        color: #777;
+    }
+/* _content/EncoreTIX/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-6pouzggumf] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-6pouzggumf] {
+  color: #0077cc;
+}
+
+.btn-primary[b-6pouzggumf] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-6pouzggumf], .nav-pills .show > .nav-link[b-6pouzggumf] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-6pouzggumf] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-6pouzggumf] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-6pouzggumf] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-6pouzggumf] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-6pouzggumf] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
